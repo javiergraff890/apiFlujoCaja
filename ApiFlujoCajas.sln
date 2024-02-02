@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFlujoCajas", "ApiFlujoCajas\ApiFlujoCajas.csproj", "{805EECD9-01EC-4669-A354-9902606BB812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805EECD9-01EC-4669-A354-9902606BB812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805EECD9-01EC-4669-A354-9902606BB812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805EECD9-01EC-4669-A354-9902606BB812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805EECD9-01EC-4669-A354-9902606BB812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB3CFFF-2007-4F28-8247-9225A4BD7C61}
+	EndGlobalSection
+EndGlobal
